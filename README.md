@@ -29,4 +29,4 @@ Lopez Middle School
 
 **2023 1ST PLACE ROBOT CHAMPIONS Technowizards Camp**: worked with a team to build and program a robot to pop balloons autonomously.
 
-Template copyright David Zhao &copy; 2024
+Template copyright David Zhao &copy; 2024. All rights reserved.
