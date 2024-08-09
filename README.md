@@ -9,7 +9,7 @@ I write small projects to automate the heck out of life.
 
 # Education
 
-Lopez Middle School
+Rising freshman, class of 2028
 
 # Experience
 
