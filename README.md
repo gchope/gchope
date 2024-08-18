@@ -9,7 +9,7 @@ I write small projects to automate the heck out of life.
 
 # Education
 
-Rising freshman, class of 2028
+Freshman, Ronald Reagan High School, class of 2028
 
 # Experience
 
