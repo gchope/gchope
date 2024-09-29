@@ -7,7 +7,7 @@
 
 # experience
 
-Frontend — `/html|(?:cs|j)s/`, java
+Frontend — `/html|(?:cs|j)s/`, java (swing)
 
 Competitive programming — c++17, python3
 
