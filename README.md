@@ -1,23 +1,17 @@
 # Hi👋! I'm David
 
-I write small projects to automate the heck out of life.
-
 # Projects
 
 [**weixingzhaolab.org**](https://weixingzhaolab.org/)
 - Used web frameworks like Tailwind CSS and Bootstrap to design a responsive, accessible, and professional-looking website.
 
-# Education
-
-Freshman, Ronald Reagan High School, class of 2028
-
 # Experience
+
+Frontend &mdash; HTML/CSS/JS
 
 **Languages**: C++, Python 3, HTML/CSS/Javascript, Typescript, Java, Zsh, Applescript
 
 **Tools & frameworks**: Git, Vim, Homebrew, Make, G++, IPython/Jupyter, Deno, Tailwind CSS, Node.js
-
-**Software**: Photoshop, VSCode, Premiere Pro, Audition
 
 # Awards
 
