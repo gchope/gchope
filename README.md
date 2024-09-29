@@ -7,13 +7,13 @@
 
 # experience
 
-Frontend — `/html|(?:cs|j)s/`, java (swing)
+Frontend — `/HTML|(?:CS|J)S/`, java (swing)
 
 Competitive programming — c++17, python3
 
 Automation — zsh, applescript, python3
 
-backend — python3, `(type|java)script`
+backend — python3, `/([Tt]ype|[Jj]ava)[Ss]cript/`
 
 ---
 
