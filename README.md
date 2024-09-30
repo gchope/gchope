@@ -21,7 +21,7 @@ go-to tech stack — tailwind css, svelte, vite
 
 software — vim, ⭐️regex101, git, zsh, homebrew, make, g++, jupyter, deno, nodejs
 
-# awards
+# achievements🏆
 
 * 2024 Bexar Chapter Countdown Competitor — top 10 scorers and top scorer from each team advance to optional countdown round.
 * 2024 San Antonio Mayor's Cyber Cup — top scoring middle school.
