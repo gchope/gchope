@@ -7,19 +7,19 @@
 
 # experience
 
-Frontend — `/HTML|(?:CS|J)S/`, java (swing)
+Frontend — `/html|(?:cs|j)s/`, java (swing)
 
 Competitive programming — c++17, python3
 
 Automation — zsh, applescript, python3
 
-backend — python3, `/([Tt]ype|[Jj]ava)[Ss]cript/`
+backend — python3, `/(type|java)script/`
 
 ---
 
 go-to tech stack — tailwind css, svelte, vite
 
-software — vim, ⭐️regex101, git, zsh, homebrew, make, g++, jupyter, deno, nodejs
+software — vim, git, zsh, homebrew, make, jupyter, nodejs
 
 # achievements🏆
 
