@@ -1,0 +1,11 @@
+alias cp='cp -R'
+alias touch='touch -c'
+alias ls='gls --group-directories-first --literal'
+alias g++="$(print -l $HOMEBREW_PREFIX/bin/g++-* | sort -rV | head -1)"
+alias invim='nvim -c startinsert'
+alias ivim='invim'
+alias -s cpp='invim'
+alias activate='source ./.venv/bin/activate'
+alias mkenv='python3 -m venv .venv'
+alias dev='npm run dev -- --open&sleep 1;ps -p $!&&code .;fg'
+alias -s git='git clone'
