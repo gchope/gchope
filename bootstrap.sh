@@ -15,5 +15,4 @@ settings() {
 	defaults write com.google.Chrome AppleEnableMouseSwipeNavigateWithScrolls -bool false
 }
 config
-gitignore
 settings
