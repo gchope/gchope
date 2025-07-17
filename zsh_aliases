@@ -1,7 +1,7 @@
 alias cp='cp -R'
 alias touch='touch -c'
 alias ls='gls --group-directories-first --literal'
-alias g++="$(print -l $HOMEBREW_PREFIX/bin/g++-* | sort -rV | head -1)"
+alias g++-14="$(print -l $HOMEBREW_PREFIX/bin/g++-* | sort -rV | head -1)"
 alias invim='nvim +startinsert'
 alias ivim='invim'
 alias -s cpp='invim'
