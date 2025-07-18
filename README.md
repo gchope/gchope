@@ -1,6 +1,6 @@
 # hi👋! I'm David
 
-sveltekit warrior
+sveltekit warrior [knows how to use links in MD](https://play.tailwindcss.com/naZfWE9Kv3)
 
 # projects
 
